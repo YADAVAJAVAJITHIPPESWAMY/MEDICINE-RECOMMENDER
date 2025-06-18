@@ -1,2 +1,1 @@
-# MEDICINE-RECOMMENDER
-The AI-Powered Medicine Recommendation System is a web app that provides personalized health suggestions. Users enter symptoms to get instant feedback on possible diseases, medications, diet tips, and workout plans helping improve patient care through tailored recommendations.
+The AI-Powered Medicine Recommendation System is an innovative web application designed to enhance patient care through personalized health recommendations. By simply inputting their symptoms, users receive immediate feedback that includes potential disease names, detailed descriptions, suggested medications, dietary recommendations, and workout plans tailored to their condition.
